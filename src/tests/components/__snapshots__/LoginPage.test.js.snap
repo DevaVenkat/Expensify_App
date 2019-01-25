@@ -18,7 +18,7 @@ exports[`should correctly render LoginPage 1`] = `
     <button
       className="button"
     >
-      Login with Google account
+      Login with Google
     </button>
   </div>
 </div>
